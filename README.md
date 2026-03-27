@@ -19,10 +19,6 @@
 </div>
 <div align="center">
 <p>🤖 Estastísticas</p>
-
-<a href="https://github.com/JzGuilherme/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JzGuilherme&show_icons=true&theme=radical" />
-</a>
 </div>
 
 <h2>Minhas Habilidades:</h2>
