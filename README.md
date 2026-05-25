@@ -84,6 +84,7 @@ const joseGuilherme = {
 - ⚛️ React.js
 - 🚀 Node.js
 - 🔷 TypeScript
+- 🗄️ MySQL
 - 🔗 REST APIs
 - 🎨 UI/UX Design
 - 📱 Responsive Web Design
