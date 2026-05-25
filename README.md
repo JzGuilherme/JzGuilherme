@@ -29,7 +29,7 @@ const joseGuilherme = {
   education: "Systems Analysis and Development",
   languages: ["JavaScript", "Python"],
   focus: ["UI/UX", "Responsive Design", "Clean Code"],
-  currentlyLearning: ["React.js", "Node.js", "APIs"],
+  currentlyLearning: ["React.js", "Node.js", "APIs", "TypeScript","MySQL"],
 };
 ```
 
@@ -83,16 +83,15 @@ const joseGuilherme = {
 
 - ⚛️ React.js
 - 🚀 Node.js
+- 🔷 TypeScript
 - 🔗 REST APIs
 - 🎨 UI/UX Design
 - 📱 Responsive Web Design
 - 🧠 Clean Code Principles
-
 ---
 
 # 🎯 Goals
 
-✔️ Become a Full Stack Developer  
 ✔️ Build scalable and modern applications  
 ✔️ Contribute to Open Source projects  
 ✔️ Continuously improve my programming skills  
