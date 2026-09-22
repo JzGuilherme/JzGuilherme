@@ -93,4 +93,3 @@
 
 <br>
 
-### <img width="8%" src="https://github.com/hak553/photoToProfile/blob/main/Bar%20.svg" align="center" /> GitHub Stats:
