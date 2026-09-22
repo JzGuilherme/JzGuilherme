@@ -20,10 +20,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
-</div>
-      
+
 <br>
 <br>
       
@@ -38,13 +35,9 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg">
   
@@ -84,7 +77,7 @@
 <div align="center">
   <p align="center">
       <samp>
-        ♡<a href="https://rentry.co/kamillymedino">rentry</a> ⊹
+       <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
         <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
         <a href="https://kamillymedino.carrd.co/">carrd.co</a> ⊹
         <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> 
