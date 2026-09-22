@@ -39,7 +39,7 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJs-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js" />   
   
 </div>
 
@@ -75,7 +75,7 @@
 </div>
 
 
-##
+## 
 
 <br>
 
@@ -92,3 +92,5 @@
   <p>I appreciate your time and interest. If you liked what I build, feel free to reach out or follow my upcoming projects.</p>
 
 <br>
+
+### <img width="8%" src="https://github.com/hak553/photoToProfile/blob/main/Bar%20.svg" align="center" /> GitHub Stats:
