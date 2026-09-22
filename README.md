@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  <b>`プ ロ グ ラ マ`</b>
+  <b>`ようこそ`</b>
   <samp>
       <br>
       Hi there! I'm <b>José Guilherme</b>
@@ -15,7 +15,7 @@
 
 <div align="center" width="100%">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -33,13 +33,13 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJs-Dark.svg">
   
 </div>
 
@@ -80,7 +80,15 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=9400D3" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=JzGuilherme&style=flat-square&color=9400D3" /></p> 
 </div>
+
+<br>
+
+<br>
+
+<div align="center">
+  <h3> <img width="8%" src="https://github.com/hak553/photoToProfile/blob/main/AI%20Searching.svg" align="center" /> Thanks for visiting my profile! <img width="8%" src="https://github.com/hak553/photoToProfile/blob/main/AI%20Searching.svg" align="center" /></h3>
+  <p>I appreciate your time and interest. If you liked what I build, feel free to reach out or follow my upcoming projects.</p>
 
 <br>
